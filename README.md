@@ -9,9 +9,7 @@ in the Vertical Architectures, Memories, and Algorithms (VAMA) research group on
 the Graph Algorithm Platform Benchmark Suite, a suite of benchmarks and implementations
 of common graph kernels. 
 
-![Graph of most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connormas&show_icons=true&count_private=true)
-
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=connormas&count_private=true&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connormas&count_private=true&hide=jupyter%20notebook,html,javascript&layout=compact&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connormas&count_private=true&hide=jupyter%20notebook,html,javascript&layout=compact&theme=dracula)
