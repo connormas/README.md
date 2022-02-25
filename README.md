@@ -12,4 +12,4 @@ of common graph kernels.
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=connormas&count_private=true&show_icons=true&theme=dracula)
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connormas&count_private=true&hide=jupyter%20notebook,html,javascript&layout=compact&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connormas&count_private=false&hide=jupyter%20notebook,html,javascript&layout=compact&theme=dracula)
